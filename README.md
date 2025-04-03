@@ -442,8 +442,8 @@ JavaScript
 **Rolle:** Fullstack utvikler  
 - Vedlikehold, updates og feature-requests
 
-Utvikling av (da) ny webside for snohetta.com
-Websiden eksisterer fortsatt på old.snohetta.com per 1.april 2025
+Utvikling av (da) ny webside for snohetta.com  
+Websiden eksisterer fortsatt på old.snohetta.com
 
 ---
 
