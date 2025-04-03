@@ -94,7 +94,7 @@
 **Fullstack, Web, Backend, Frontend, React Native Android/iOS App, Devops, Native Android App**
 
 ### Språk
-**Javascript, PHP, Typescript, HTML/CSS, SQL, GraphQL, Java, Bash, Cypher** Python, Kotlin, Rust
+**Javascript, PHP, Typescript, HTML/CSS, SQL, GraphQL, Java, Bash, Cypher,** Python, Kotlin, Rust
 
 ### Rammeverk/CMS
 **Next.js, Laravel, Wordpress, Skreddersydd-CMS, Themosis, Sanity** Remix, Magento
@@ -442,7 +442,8 @@ JavaScript
 **Rolle:** Fullstack utvikler  
 - Vedlikehold, updates og feature-requests
 
-Utvikling av ny webside for snohetta.com
+Utvikling av (da) ny webside for snohetta.com
+Websiden eksisterer fortsatt på old.snohetta.com per 1.april 2025
 
 ---
 
