@@ -41,6 +41,50 @@
   - [Pigeon](#pigeon)
   - [SapaPhoto](#sapaphoto)
   - [Hjemmekampen](#hjemmekampen)
+- [Prosjekterfaring uten dato, eller som mangler detaljer](#prosjekterfaring-uten-dato-eller-som-mangler-detaljer)
+  - [Momentium.no](#momentiumno)
+  - [Bryllupshjelperen.no](#bryllupshjelperenno)
+  - [Momentiumapp](#momentiumapp)
+  - [Usemy](#usemy)
+  - [Øygardshamna.no](#øygardshamnano)
+  - [Lyd-og-Lyspartner](#lyd-og-lyspartner)
+  - [Giskeil.no](#giskeilno)
+  - [Giskespelet.no](#giskespeletno)
+  - [Ablymed.com](#ablymedcom)
+  - [Stryntrappa.no/Escalia.no/Hagen.no](#stryntrappano-escaliano-hagenno)
+  - [Research Expedition Vessel / rosellinis-four-12 / Røkke-skip](#research-expidition-vessel--resellinis-four-12--webside-til-røkke-båt)
+  - [Contribute](#contribute)
+  - [Dramatikkenshus.no](#dramatikkenshus)
+  - [Innovativeanskaffelser.no](#innovativeanskaffelserno)
+  - [Bjorknes.no](#bjorknesno)
+  - [Kodebyraaet.no](#kodebyraaetno)
+  - [Europan.no](#europanno)
+  - [Thenorthwest.no](#thenorthwestno)
+  - [All-heart.no](#all-heartno)
+  - [Anno.no](#annono)
+  - [Tornekrattet.no](#tornekrattetno)
+  - [Brukerutstyr](#brukerutstyrno)
+  - [Fettskolen.no](#fettskolenno)
+  - [Webside for sustainable-konferansen](#webside-for-sustainable-konferansen)
+  - [Hjerterompådøra.no](#hjerterompådørano)
+  - [Opplevelseskalkulatoren.no](#opplevelseskalkulatorenno)
+  - [Idcnorway.no](#idcnorwayno)
+  - [Baa.no](#baano)
+  - [Eventhallen.no](#eventhallenno)
+  - [Oceansoundrecordings.no](#oceansoundrecordingsno)
+  - [Farm konferansen webside](#farm-konferansen)
+  - [Lytte](#lytte)
+  - [Lytter](#lytter)
+  - [Spiff.no](#spiffno)
+  - [Nymusikk.no](#nymusikkno)
+  - [Musikkprisen.no](#musikkprisenno)
+  - [Brobro.no](#brobrono)
+  - [Mellbye.no](#mellbyeno)
+  - [C3connectedcare.no](#c3connectedcareno)
+  - [svalbardadventures.no](#svalbardadventures)
+  - [Moelven årsrapporter](#moelven)
+  - [Oslo bysykkel](#oslo-bysykkel)
+  - [Los & Co](#losco)
 
 ## Kompetanse
 *Sortert etter mengde erfaring, synkende.*  
@@ -573,6 +617,239 @@ Android-app med bildefilter for å ta produktbilder
 Console, Google Play Store    
 **Rolle:** Hybrid-App utvikler  
 - Portering av app til Android
+
+---
+
+## Prosjekterfaring uten dato, eller som mangler detaljer
+
+### Momentium.no
+**Kunde:** Momentium AS  
+**Stack:** Craft CMS, Jquery, ++    
+**Rolle:** Fullstack utvikler  
+- Feature requests
+- Bugfix
+- Vedlikehold og oppdateringer
+
+Marketing/Bedriftssider
+
+---
+
+### Bryllupshjelperen.no
+**Kunde:** Bryllupshjelperen  
+**Stack:** Wordpress, PHP, Jquery, React  
+**Rolle:** Fullstack utvikler    
+- Noen dager med debugging og fiks av virksomhetshemmende bugs.
+
+Kråkereir av flere kodebaser i en, uten version-control.
+
+---
+
+### Momentiumapp
+**Kunde:** Momentium/Tikkio    
+**Stack:** React-native  
+**Rolle:** App utvikler   
+- Noen få feature requests
+- Bugfix på android-versjonen
+
+---
+
+### Usemy
+- Gjorde noen småting
+- React-native app
+
+---
+
+### Øygardshamna.no
+- Bare server
+
+---
+
+### Lyd og lyspartner
+- prototype/start på ny webside
+- themosis
+---
+
+### giskeil.no
+- Vedlikehold, oppdateringer og feature requests
+
+---
+
+### giskespelet.no
+- vedlikehold, oppdateringer og feature requests
+---
+
+### ablymed.com
+- utvikling, vedlikehold, oppdateringer og feature requests
+- Themosis
+---
+
+### stryntrappa.no, escalia.no, hagen.no
+- vedlikehold, content import, oppdateringer og feature requests
+- Craft
+
+---
+
+### Research Expidition Vessel / resellinis-four-12 / webside til Røkke-båt
+- feature requests
+- craft?
+
+---
+
+### Contribute
+- design/frontend Demo av android-app
+
+---
+
+### dramatikkenshus
+- feature requests, vedlikehold og oppdateringer
+
+---
+
+### innovativeanskaffelser.no
+- husker ikke hva jeg gjorde her
+
+---
+
+### bjorknes.no
+- feature requests
+
+---
+
+### kodebyraaet.no
+- feature requests
+
+---
+
+### europan.no
+- feature request
+
+---
+
+### thenorthwest.no
+- feature request
+
+---
+
+### all-heart.no
+- feature request
+
+---
+
+### anno.no
+- feature request, oppdatering og vedlikehold
+
+---
+
+### tornekrattet.no
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### brukerutstyr.no
+- feature request
+
+---
+
+### fettskolen.no
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### Webside for sustainable-konferansen
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### hjerterompådøra.no
+- feature requests, lansering og server-hjelp
+
+### opplevelseskalkulatoren.no
+- feature request
+
+---
+
+### idcnorway.no
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### baa.no
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### eventhallen.no
+- feature requests, oppdatering og vedlikehold, utvikling av redesign
+
+---
+
+### oceansoundrecordings.no
+- feature requests, oppdatering og vedlikehold, server
+
+---
+
+### farm-konferansen
+- feature request, oppdatering og vedlikehold
+
+---
+
+### lytte
+- feature request
+
+---
+
+### lytter
+- feature requests
+
+---
+
+### spiff.no
+- oppdatering
+
+---
+
+### nymusikk.no
+- feature request, oppdatering og vedlikehold
+
+---
+
+### musikkprisen.no
+- feature request, oppdatering og vedlikehold
+
+---
+
+### brobro.no
+- feature request, oppdatering og vedlikehold
+
+---
+
+### mellbye.no
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### c3connectedcare.no
+- feature requests, oppdatering og vedlikehold
+
+---
+
+### svalbardadventures
+- bare server-hjelp
+
+---
+
+### moelven
+- oppdatere/endre/sette inn årsrapporter
+
+---
+
+### oslo bysykkel
+- email template
+
+---
+
+### los&co
+- feature requests
 
 ---
 
