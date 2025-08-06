@@ -103,7 +103,7 @@
 **Docker, git, Docker-Compose, Fabric, Github Actions,** Puppeteer
 
 ### Cloud
-**Linux/Linux VPS (Virtual Private Server), Vercel, Digitalocean, Laravel Forge, Firebase, Google Cloud Platform, Google Play Console, Google Play Store, Appstore** Azure, Microsoft App Center, AWS
+**Linux/Linux VPS (Virtual Private Server), Vercel, Digitalocean, Laravel Forge, Firebase, Google Cloud Platform, Google Play Console, Google Play Store, Appstore**, Azure, Microsoft App Center, AWS
 
 ### Databaser/Databaseløsninger/Databaseverktøy
 **MySql, MariaDB, GraphQL, NoSQL, Firebase Firestore, Neo4j**
