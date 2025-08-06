@@ -97,7 +97,7 @@
 **Javascript, PHP, Typescript, HTML/CSS, SQL, GraphQL, Java, Bash, Cypher,** Python, Kotlin, Rust
 
 ### Rammeverk/CMS
-**Next.js, Laravel, Wordpress, Skreddersydd-CMS, Themosis, Sanity** Remix, Magento
+**Next.js, Laravel, Wordpress, Skreddersydd-CMS, Themosis, Sanity**, Remix, Magento
 
 ### Verktøy
 **Docker, git, Docker-Compose, Fabric, Github Actions,** Puppeteer
